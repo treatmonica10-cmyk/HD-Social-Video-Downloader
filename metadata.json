@@ -1,0 +1,8 @@
+{
+  "name": "Remix HD Social Video Downloader",
+  "description": "កម្មវិធីទាញយកវីដេអូគុណភាពច្បាស់កម្រិត HD/4K ពី TikTok, Facebook, Instagram, YouTube, Twitter/X និងបណ្តាញសង្គមផ្សេងៗ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
